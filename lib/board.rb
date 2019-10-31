@@ -3,5 +3,5 @@
 board = "Tic_Tae_Toe"
 
 
-board "["",
+board "["","","","","","","","","",]
 
