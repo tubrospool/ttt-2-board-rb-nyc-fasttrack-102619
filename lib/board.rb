@@ -2,4 +2,4 @@
 
 board = "tic_tae_toe"
 
-board
+board "[" "," "," "," "," "," "," ",""," "]"
